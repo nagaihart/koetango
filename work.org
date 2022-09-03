@@ -16,12 +16,13 @@
 
 * <2022-09-03 土> 
  + 国立国会図書館パスワード変更
-  + ID
-    E13426044
-  + passwd
-    nagai***1
+   + ID
+     E13426044
+   + passwd
+     nagai***1
  + 古本屋ネットワーク
    https://www.kosho.or.jp/
+ + 
  
 
 
