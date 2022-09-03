@@ -2,7 +2,7 @@
   + ファイル分割
     + 作業メモ
       work.org
-    + README.me
+    + README.md
     + 目次
       ktg_00_table_contents.org
     + 章毎ファイル化
