@@ -1,0 +1,27 @@
+* <2022-09-02 金> ファイル分割とgit管理
+  + ファイル分割
+    + 作業メモ
+      work.org
+    + README.me
+    + 目次
+      ktg_00_table_contents.org
+    + 章毎ファイル化
+      ktg_nm_title.org
+    + 参照系ファイル化
+      ktg_ref_title.org
+    + 元の全情報ファイル
+      ktg_all.org
+  + github repository(koetango)
+    https://github.com/nagaihart/koetango
+
+* <2022-09-03 土> 
+ + 国立国会図書館パスワード変更
+  + ID
+    E13426044
+  + passwd
+    nagai***1
+ + 古本屋ネットワーク
+   https://www.kosho.or.jp/
+ 
+
+
