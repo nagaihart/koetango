@@ -11,6 +11,10 @@
       ktg_ref_title.org
     + 元の全情報ファイル
       ktg_all.org
+    + from_to.csv 
+      小説中のなまえをコマンドで一括変換する元ねたcsv。
+      from,toの2カラム。
+
   + github repository(koetango)
     https://github.com/nagaihart/koetango
 
@@ -26,3 +30,8 @@
  
 
 
+* <2023-09-10 日>
+  + 1956/12 のJCBが出していた、国鉄監修の時刻表が届いた。
+  + 9/4に2200円でyhooオクで落札していたものだ、翌日朝落札されていてびっくり。
+  + それによると普通快速で鹿児島-東郷間が成立することがわかってこれこえたんご書き換える。
+  
